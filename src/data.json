@@ -1,0 +1,1647 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 65416.28,
+            "percentile": 10
+          },
+          {
+            "earnings": 102675.0,
+            "percentile": 25
+          },
+          {
+            "earnings": 160034.62,
+            "percentile": 50
+          },
+          {
+            "earnings": 210596.06,
+            "percentile": 75
+          },
+          {
+            "earnings": 314967.62,
+            "percentile": 90
+          }
+        ],
+        "description": "Determine and formulate policies and provide overall direction of companies or private and public sector organizations within guidelines set up by a board of directors or similar governing body. Plan, direct, or coordinate operational activities at the highest level of management with the help of subordinate executives and staff managers.",
+        "onet-id": "11-1011.00",
+        "title": "Chief Executives"
+      },
+      "id": "11-1011.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 65416.28,
+            "percentile": 10
+          },
+          {
+            "earnings": 102675.0,
+            "percentile": 25
+          },
+          {
+            "earnings": 160034.62,
+            "percentile": 50
+          },
+          {
+            "earnings": 210596.06,
+            "percentile": 75
+          },
+          {
+            "earnings": 314967.62,
+            "percentile": 90
+          }
+        ],
+        "description": "Communicate and coordinate with management, shareholders, customers, and employees to address sustainability issues. Enact or oversee a corporate sustainability strategy.",
+        "onet-id": "11-1011.03",
+        "title": "Chief Sustainability Officers"
+      },
+      "id": "11-1011.03",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 44516.91,
+            "percentile": 10
+          },
+          {
+            "earnings": 65441.9,
+            "percentile": 25
+          },
+          {
+            "earnings": 100023.42,
+            "percentile": 50
+          },
+          {
+            "earnings": 155816.85,
+            "percentile": 75
+          },
+          {
+            "earnings": 233161.06,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the operations of public or private sector organizations. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources, but are too diverse and general in nature to be classified in any one functional area of management or administration, such as personnel, purchasing, or administrative services.",
+        "onet-id": "11-1021.00",
+        "title": "General and Operations Managers"
+      },
+      "id": "11-1021.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 17477.81,
+            "percentile": 10
+          },
+          {
+            "earnings": 18857.58,
+            "percentile": 25
+          },
+          {
+            "earnings": 25625.04,
+            "percentile": 50
+          },
+          {
+            "earnings": 70105.87,
+            "percentile": 75
+          },
+          {
+            "earnings": 97474.19,
+            "percentile": 90
+          }
+        ],
+        "description": "Develop, introduce or enact laws and statutes at the local, tribal, State, or Federal level. Includes only workers in elected positions.",
+        "onet-id": "11-1031.00",
+        "title": "Legislators"
+      },
+      "id": "11-1031.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 49336.64,
+            "percentile": 10
+          },
+          {
+            "earnings": 70919.19,
+            "percentile": 25
+          },
+          {
+            "earnings": 102580.1,
+            "percentile": 50
+          },
+          {
+            "earnings": 148298.6,
+            "percentile": 75
+          },
+          {
+            "earnings": 221193.49,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate advertising policies and programs or produce collateral materials, such as posters, contests, coupons, or give-aways, to create extra interest in the purchase of a product or service for a department, an entire organization, or on an account basis.",
+        "onet-id": "11-2011.00",
+        "title": "Advertising and Promotions Managers"
+      },
+      "id": "11-2011.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 49336.64,
+            "percentile": 10
+          },
+          {
+            "earnings": 70919.19,
+            "percentile": 25
+          },
+          {
+            "earnings": 102580.1,
+            "percentile": 50
+          },
+          {
+            "earnings": 148298.6,
+            "percentile": 75
+          },
+          {
+            "earnings": 221193.49,
+            "percentile": 90
+          }
+        ],
+        "description": "Create and implement methods to market green products and services.",
+        "onet-id": "11-2011.01",
+        "title": "Green Marketers"
+      },
+      "id": "11-2011.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 67506.87,
+            "percentile": 10
+          },
+          {
+            "earnings": 91996.59,
+            "percentile": 25
+          },
+          {
+            "earnings": 128399.64,
+            "percentile": 50
+          },
+          {
+            "earnings": 174092.52,
+            "percentile": 75
+          },
+          {
+            "earnings": 266180.55,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate marketing policies and programs, such as determining the demand for products and services offered by a firm and its competitors, and identify potential customers. Develop pricing strategies with the goal of maximizing the firm's profits or share of the market while ensuring the firm's customers are satisfied. Oversee product development or monitor trends that indicate the need for new products and services.",
+        "onet-id": "11-2021.00",
+        "title": "Marketing Managers"
+      },
+      "id": "11-2021.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 57144.6,
+            "percentile": 10
+          },
+          {
+            "earnings": 81205.33,
+            "percentile": 25
+          },
+          {
+            "earnings": 118459.31,
+            "percentile": 50
+          },
+          {
+            "earnings": 166494.35,
+            "percentile": 75
+          },
+          {
+            "earnings": 254009.07,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the actual distribution or movement of a product or service to the customer. Coordinate sales distribution by establishing sales territories, quotas, and goals and establish training programs for sales representatives. Analyze sales statistics gathered by staff to determine sales potential and inventory requirements and monitor the preferences of customers.",
+        "onet-id": "11-2022.00",
+        "title": "Sales Managers"
+      },
+      "id": "11-2022.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61131.2,
+            "percentile": 10
+          },
+          {
+            "earnings": 81515.2,
+            "percentile": 25
+          },
+          {
+            "earnings": 111280.0,
+            "percentile": 50
+          },
+          {
+            "earnings": 155833.6,
+            "percentile": 75
+          },
+          {
+            "earnings": 242529.34,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate activities designed to create or maintain a favorable public image or raise issue awareness for their organization or client; or if engaged in fundraising, plan, direct, or coordinate activities to solicit and maintain funds for special projects or nonprofit organizations.",
+        "onet-id": "11-2031.00",
+        "title": "Public Relations and Fundraising Managers"
+      },
+      "id": "11-2031.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 52774.28,
+            "percentile": 10
+          },
+          {
+            "earnings": 69542.09,
+            "percentile": 25
+          },
+          {
+            "earnings": 93845.05,
+            "percentile": 50
+          },
+          {
+            "earnings": 125000.07,
+            "percentile": 75
+          },
+          {
+            "earnings": 162986.48,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate one or more administrative services of an organization, such as records and information management, mail distribution, facilities planning and maintenance, custodial operations, and other office support services.",
+        "onet-id": "11-3011.00",
+        "title": "Administrative Services Managers"
+      },
+      "id": "11-3011.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 83470.86,
+            "percentile": 10
+          },
+          {
+            "earnings": 107002.31,
+            "percentile": 25
+          },
+          {
+            "earnings": 138061.52,
+            "percentile": 50
+          },
+          {
+            "earnings": 174223.73,
+            "percentile": 75
+          },
+          {
+            "earnings": 281069.05,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate activities in such fields as electronic data processing, information systems, systems analysis, and computer programming.",
+        "onet-id": "11-3021.00",
+        "title": "Computer and Information Systems Managers"
+      },
+      "id": "11-3021.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 66435.34,
+            "percentile": 10
+          },
+          {
+            "earnings": 89028.02,
+            "percentile": 25
+          },
+          {
+            "earnings": 123618.3,
+            "percentile": 50
+          },
+          {
+            "earnings": 171257.75,
+            "percentile": 75
+          },
+          {
+            "earnings": 267268.85,
+            "percentile": 90
+          }
+        ],
+        "description": "Direct financial activities, such as planning, procurement, and investments for all or part of an organization.",
+        "onet-id": "11-3031.01",
+        "title": "Treasurers and Controllers"
+      },
+      "id": "11-3031.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 66435.34,
+            "percentile": 10
+          },
+          {
+            "earnings": 89028.02,
+            "percentile": 25
+          },
+          {
+            "earnings": 123618.3,
+            "percentile": 50
+          },
+          {
+            "earnings": 171257.75,
+            "percentile": 75
+          },
+          {
+            "earnings": 267268.85,
+            "percentile": 90
+          }
+        ],
+        "description": "Direct and coordinate financial activities of workers in a branch, office, or department of an establishment, such as branch bank, brokerage firm, risk and insurance department, or credit department.",
+        "onet-id": "11-3031.02",
+        "title": "Financial Managers, Branch or Department"
+      },
+      "id": "11-3031.02",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61174.75,
+            "percentile": 10
+          },
+          {
+            "earnings": 77406.63,
+            "percentile": 25
+          },
+          {
+            "earnings": 99536.72,
+            "percentile": 50
+          },
+          {
+            "earnings": 129094.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 166234.16,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the work activities and resources necessary for manufacturing products in accordance with cost, quality, and quantity specifications.",
+        "onet-id": "11-3051.00",
+        "title": "Industrial Production Managers"
+      },
+      "id": "11-3051.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61174.75,
+            "percentile": 10
+          },
+          {
+            "earnings": 77406.63,
+            "percentile": 25
+          },
+          {
+            "earnings": 99536.72,
+            "percentile": 50
+          },
+          {
+            "earnings": 129094.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 166234.16,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate quality assurance programs. Formulate quality control policies and control quality of laboratory and production efforts.",
+        "onet-id": "11-3051.01",
+        "title": "Quality Control Systems Managers"
+      },
+      "id": "11-3051.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61174.75,
+            "percentile": 10
+          },
+          {
+            "earnings": 77406.63,
+            "percentile": 25
+          },
+          {
+            "earnings": 99536.72,
+            "percentile": 50
+          },
+          {
+            "earnings": 129094.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 166234.16,
+            "percentile": 90
+          }
+        ],
+        "description": "Manage operations at geothermal power generation facilities. Maintain and monitor geothermal plant equipment for efficient and safe plant operations.",
+        "onet-id": "11-3051.02",
+        "title": "Geothermal Production Managers"
+      },
+      "id": "11-3051.02",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61174.75,
+            "percentile": 10
+          },
+          {
+            "earnings": 77406.63,
+            "percentile": 25
+          },
+          {
+            "earnings": 99536.72,
+            "percentile": 50
+          },
+          {
+            "earnings": 129094.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 166234.16,
+            "percentile": 90
+          }
+        ],
+        "description": "Manage biofuels production and plant operations. Collect and process information on plant production and performance, diagnose problems, and design corrective procedures.",
+        "onet-id": "11-3051.03",
+        "title": "Biofuels Production Managers"
+      },
+      "id": "11-3051.03",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61174.75,
+            "percentile": 10
+          },
+          {
+            "earnings": 77406.63,
+            "percentile": 25
+          },
+          {
+            "earnings": 99536.72,
+            "percentile": 50
+          },
+          {
+            "earnings": 129094.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 166234.16,
+            "percentile": 90
+          }
+        ],
+        "description": "Manage operations at biomass power generation facilities. Direct work activities at plant, including supervision of operations and maintenance staff.",
+        "onet-id": "11-3051.04",
+        "title": "Biomass Power Plant Managers"
+      },
+      "id": "11-3051.04",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61174.75,
+            "percentile": 10
+          },
+          {
+            "earnings": 77406.63,
+            "percentile": 25
+          },
+          {
+            "earnings": 99536.72,
+            "percentile": 50
+          },
+          {
+            "earnings": 129094.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 166234.16,
+            "percentile": 90
+          }
+        ],
+        "description": "Direct daily operations, maintenance, or repair of landfill gas projects, including maintenance of daily logs, determination of service priorities, and compliance with reporting requirements.",
+        "onet-id": "11-3051.05",
+        "title": "Methane/Landfill Gas Collection System Operators"
+      },
+      "id": "11-3051.05",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 61174.75,
+            "percentile": 10
+          },
+          {
+            "earnings": 77406.63,
+            "percentile": 25
+          },
+          {
+            "earnings": 99536.72,
+            "percentile": 50
+          },
+          {
+            "earnings": 129094.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 166234.16,
+            "percentile": 90
+          }
+        ],
+        "description": "Manage operations at hydroelectric power generation facilities. Maintain and monitor hydroelectric plant equipment for efficient and safe plant operations.",
+        "onet-id": "11-3051.06",
+        "title": "Hydroelectric Production Managers"
+      },
+      "id": "11-3051.06",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 66645.65,
+            "percentile": 10
+          },
+          {
+            "earnings": 86671.35,
+            "percentile": 25
+          },
+          {
+            "earnings": 115742.91,
+            "percentile": 50
+          },
+          {
+            "earnings": 146769.22,
+            "percentile": 75
+          },
+          {
+            "earnings": 182745.84,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the activities of buyers, purchasing officers, and related workers involved in purchasing materials, products, and services. Includes wholesale or retail trade merchandising managers and procurement managers.",
+        "onet-id": "11-3061.00",
+        "title": "Purchasing Managers"
+      },
+      "id": "11-3061.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 54304.04,
+            "percentile": 10
+          },
+          {
+            "earnings": 70190.21,
+            "percentile": 25
+          },
+          {
+            "earnings": 91982.01,
+            "percentile": 50
+          },
+          {
+            "earnings": 120251.47,
+            "percentile": 75
+          },
+          {
+            "earnings": 155422.88,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the transportation operations within an organization or the activities of organizations that provide transportation services.",
+        "onet-id": "11-3071.01",
+        "title": "Transportation Managers"
+      },
+      "id": "11-3071.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 54304.04,
+            "percentile": 10
+          },
+          {
+            "earnings": 70190.21,
+            "percentile": 25
+          },
+          {
+            "earnings": 91982.01,
+            "percentile": 50
+          },
+          {
+            "earnings": 120251.47,
+            "percentile": 75
+          },
+          {
+            "earnings": 155422.88,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the storage or distribution operations within an organization or the activities of organizations that are engaged in storing or distributing materials or products.",
+        "onet-id": "11-3071.02",
+        "title": "Storage and Distribution Managers"
+      },
+      "id": "11-3071.02",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 54304.04,
+            "percentile": 10
+          },
+          {
+            "earnings": 70190.21,
+            "percentile": 25
+          },
+          {
+            "earnings": 91982.01,
+            "percentile": 50
+          },
+          {
+            "earnings": 120251.47,
+            "percentile": 75
+          },
+          {
+            "earnings": 155422.88,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate purchasing, warehousing, distribution, forecasting, customer service, or planning services. Manage logistics personnel and logistics systems and direct daily operations.",
+        "onet-id": "11-3071.03",
+        "title": "Logistics Managers"
+      },
+      "id": "11-3071.03",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 68469.49,
+            "percentile": 10
+          },
+          {
+            "earnings": 89674.3,
+            "percentile": 25
+          },
+          {
+            "earnings": 119000.02,
+            "percentile": 50
+          },
+          {
+            "earnings": 157963.68,
+            "percentile": 75
+          },
+          {
+            "earnings": 202344.63,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate compensation and benefits activities of an organization.",
+        "onet-id": "11-3111.00",
+        "title": "Compensation and Benefits Managers"
+      },
+      "id": "11-3111.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 64202.44,
+            "percentile": 10
+          },
+          {
+            "earnings": 81504.36,
+            "percentile": 25
+          },
+          {
+            "earnings": 107088.58,
+            "percentile": 50
+          },
+          {
+            "earnings": 144408.38,
+            "percentile": 75
+          },
+          {
+            "earnings": 190418.07,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate human resources activities and staff of an organization.",
+        "onet-id": "11-3121.00",
+        "title": "Human Resources Managers"
+      },
+      "id": "11-3121.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 59165.52,
+            "percentile": 10
+          },
+          {
+            "earnings": 79726.35,
+            "percentile": 25
+          },
+          {
+            "earnings": 108228.89,
+            "percentile": 50
+          },
+          {
+            "earnings": 143862.69,
+            "percentile": 75
+          },
+          {
+            "earnings": 187582.46,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the training and development activities and staff of an organization.",
+        "onet-id": "11-3131.00",
+        "title": "Training and Development Managers"
+      },
+      "id": "11-3131.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 21356.94,
+            "percentile": 10
+          },
+          {
+            "earnings": 26769.74,
+            "percentile": 25
+          },
+          {
+            "earnings": 32354.75,
+            "percentile": 50
+          },
+          {
+            "earnings": 39363.13,
+            "percentile": 75
+          },
+          {
+            "earnings": 48557.76,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, organize, direct, control, and coordinate activities of workers engaged in propagating, cultivating, and harvesting horticultural specialties, such as trees, shrubs, flowers, mushrooms, and other plants.",
+        "onet-id": "11-9013.01",
+        "title": "Nursery and Greenhouse Managers"
+      },
+      "id": "11-9013.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 21356.94,
+            "percentile": 10
+          },
+          {
+            "earnings": 26769.74,
+            "percentile": 25
+          },
+          {
+            "earnings": 32354.75,
+            "percentile": 50
+          },
+          {
+            "earnings": 39363.13,
+            "percentile": 75
+          },
+          {
+            "earnings": 48557.76,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the management or operation of farms, ranches, greenhouses, aquacultural operations, nurseries, timber tracts, or other agricultural establishments. May hire, train, or supervise farm workers or contract for services to carry out the day-to-day activities of the managed operation. May engage in or supervise planting, cultivating, harvesting, financial, or marketing activities.",
+        "onet-id": "11-9013.02",
+        "title": "Farm and Ranch Managers"
+      },
+      "id": "11-9013.02",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 21356.94,
+            "percentile": 10
+          },
+          {
+            "earnings": 26769.74,
+            "percentile": 25
+          },
+          {
+            "earnings": 32354.75,
+            "percentile": 50
+          },
+          {
+            "earnings": 39363.13,
+            "percentile": 75
+          },
+          {
+            "earnings": 48557.76,
+            "percentile": 90
+          }
+        ],
+        "description": "Direct and coordinate, through subordinate supervisory personnel, activities of workers engaged in fish hatchery production for corporations, cooperatives, or other owners.",
+        "onet-id": "11-9013.03",
+        "title": "Aquacultural Managers"
+      },
+      "id": "11-9013.03",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 46493.52,
+            "percentile": 10
+          },
+          {
+            "earnings": 57301.12,
+            "percentile": 25
+          },
+          {
+            "earnings": 73280.03,
+            "percentile": 50
+          },
+          {
+            "earnings": 95047.96,
+            "percentile": 75
+          },
+          {
+            "earnings": 122045.65,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate, usually through subordinate supervisory personnel, activities concerned with the construction and maintenance of structures, facilities, and systems. Participate in the conceptual development of a construction project and oversee its organization, scheduling, budgeting, and implementation. Includes managers in specialized construction fields, such as carpentry or plumbing.",
+        "onet-id": "11-9021.00",
+        "title": "Construction Managers"
+      },
+      "id": "11-9021.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 28198.09,
+            "percentile": 10
+          },
+          {
+            "earnings": 34154.49,
+            "percentile": 25
+          },
+          {
+            "earnings": 43497.69,
+            "percentile": 50
+          },
+          {
+            "earnings": 57516.98,
+            "percentile": 75
+          },
+          {
+            "earnings": 78081.59,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the academic and nonacademic activities of preschool and childcare centers or programs.",
+        "onet-id": "11-9031.00",
+        "title": "Education Administrators, Preschool and Childcare Center/Program"
+      },
+      "id": "11-9031.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 60418.13,
+            "percentile": 10
+          },
+          {
+            "earnings": 74542.31,
+            "percentile": 25
+          },
+          {
+            "earnings": 93763.6,
+            "percentile": 50
+          },
+          {
+            "earnings": 116904.79,
+            "percentile": 75
+          },
+          {
+            "earnings": 139764.6,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the academic, administrative, or auxiliary activities of public or private elementary or secondary level schools.",
+        "onet-id": "11-9032.00",
+        "title": "Education Administrators, Elementary and Secondary School"
+      },
+      "id": "11-9032.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 52489.62,
+            "percentile": 10
+          },
+          {
+            "earnings": 67379.43,
+            "percentile": 25
+          },
+          {
+            "earnings": 91271.55,
+            "percentile": 50
+          },
+          {
+            "earnings": 126805.53,
+            "percentile": 75
+          },
+          {
+            "earnings": 179560.25,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate research, instructional, student administration and services, and other educational activities at postsecondary institutions, including universities, colleges, and junior and community colleges.",
+        "onet-id": "11-9033.00",
+        "title": "Education Administrators, Postsecondary"
+      },
+      "id": "11-9033.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 40967.79,
+            "percentile": 10
+          },
+          {
+            "earnings": 54615.71,
+            "percentile": 25
+          },
+          {
+            "earnings": 74651.62,
+            "percentile": 50
+          },
+          {
+            "earnings": 98764.67,
+            "percentile": 75
+          },
+          {
+            "earnings": 124780.95,
+            "percentile": 90
+          }
+        ],
+        "description": "Coordinate day-to-day operations of distance learning programs and schedule courses.",
+        "onet-id": "11-9039.01",
+        "title": "Distance Learning Coordinators"
+      },
+      "id": "11-9039.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 40967.79,
+            "percentile": 10
+          },
+          {
+            "earnings": 54615.71,
+            "percentile": 25
+          },
+          {
+            "earnings": 74651.62,
+            "percentile": 50
+          },
+          {
+            "earnings": 98764.67,
+            "percentile": 75
+          },
+          {
+            "earnings": 124780.95,
+            "percentile": 90
+          }
+        ],
+        "description": "Manage or coordinate fitness and wellness programs and services. Manage and train staff of wellness specialists, health educators, or fitness instructors.",
+        "onet-id": "11-9039.02",
+        "title": "Fitness and Wellness Coordinators"
+      },
+      "id": "11-9039.02",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 88056.65,
+            "percentile": 10
+          },
+          {
+            "earnings": 110209.43,
+            "percentile": 25
+          },
+          {
+            "earnings": 137454.33,
+            "percentile": 50
+          },
+          {
+            "earnings": 169185.82,
+            "percentile": 75
+          },
+          {
+            "earnings": 276782.3,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate activities in such fields as architecture and engineering or research and development in these fields.",
+        "onet-id": "11-9041.00",
+        "title": "Architectural and Engineering Managers"
+      },
+      "id": "11-9041.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 88056.65,
+            "percentile": 10
+          },
+          {
+            "earnings": 110209.43,
+            "percentile": 25
+          },
+          {
+            "earnings": 137454.33,
+            "percentile": 50
+          },
+          {
+            "earnings": 169185.82,
+            "percentile": 75
+          },
+          {
+            "earnings": 276782.3,
+            "percentile": 90
+          }
+        ],
+        "description": "Define, plan, or execute biofuels/biodiesel research programs that evaluate alternative feedstock and process technologies with near-term commercial potential.",
+        "onet-id": "11-9041.01",
+        "title": "Biofuels/Biodiesel Technology and Product Development Managers"
+      },
+      "id": "11-9041.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 26634.56,
+            "percentile": 10
+          },
+          {
+            "earnings": 33743.89,
+            "percentile": 25
+          },
+          {
+            "earnings": 43904.74,
+            "percentile": 50
+          },
+          {
+            "earnings": 56639.49,
+            "percentile": 75
+          },
+          {
+            "earnings": 73180.78,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate activities of an organization or department that serves food and beverages.",
+        "onet-id": "11-9051.00",
+        "title": "Food Service Managers"
+      },
+      "id": "11-9051.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 37938.54,
+            "percentile": 10
+          },
+          {
+            "earnings": 53920.99,
+            "percentile": 25
+          },
+          {
+            "earnings": 72321.24,
+            "percentile": 50
+          },
+          {
+            "earnings": 102214.64,
+            "percentile": 75
+          },
+          {
+            "earnings": 139686.96,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the services or resources of funeral homes. Includes activities such as determining prices for services or merchandise and managing the facilities of funeral homes.",
+        "onet-id": "11-9061.00",
+        "title": "Funeral Service Managers"
+      },
+      "id": "11-9061.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 46030.4,
+            "percentile": 10
+          },
+          {
+            "earnings": 57033.6,
+            "percentile": 25
+          },
+          {
+            "earnings": 72924.8,
+            "percentile": 50
+          },
+          {
+            "earnings": 95472.0,
+            "percentile": 75
+          },
+          {
+            "earnings": 129521.6,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate gaming operations in a casino. May formulate house rules.",
+        "onet-id": "11-9071.00",
+        "title": "Gaming Managers"
+      },
+      "id": "11-9071.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 28094.26,
+            "percentile": 10
+          },
+          {
+            "earnings": 35210.84,
+            "percentile": 25
+          },
+          {
+            "earnings": 47231.42,
+            "percentile": 50
+          },
+          {
+            "earnings": 64119.33,
+            "percentile": 75
+          },
+          {
+            "earnings": 86002.24,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate activities of an organization or department that provides lodging and other accommodations.",
+        "onet-id": "11-9081.00",
+        "title": "Lodging Managers"
+      },
+      "id": "11-9081.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 58194.8,
+            "percentile": 10
+          },
+          {
+            "earnings": 74654.73,
+            "percentile": 25
+          },
+          {
+            "earnings": 97011.34,
+            "percentile": 50
+          },
+          {
+            "earnings": 126781.69,
+            "percentile": 75
+          },
+          {
+            "earnings": 172406.05,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate medical and health services in hospitals, clinics, managed care organizations, public health agencies, or similar organizations.",
+        "onet-id": "11-9111.00",
+        "title": "Medical and Health Services Managers"
+      },
+      "id": "11-9111.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 62067.2,
+            "percentile": 10
+          },
+          {
+            "earnings": 88920.0,
+            "percentile": 25
+          },
+          {
+            "earnings": 118975.99,
+            "percentile": 50
+          },
+          {
+            "earnings": 159744.0,
+            "percentile": 75
+          },
+          {
+            "earnings": 253867.65,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate activities in such fields as life sciences, physical sciences, mathematics, statistics, and research and development in these fields.",
+        "onet-id": "11-9121.00",
+        "title": "Natural Sciences Managers"
+      },
+      "id": "11-9121.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 62067.2,
+            "percentile": 10
+          },
+          {
+            "earnings": 88920.0,
+            "percentile": 25
+          },
+          {
+            "earnings": 118975.99,
+            "percentile": 50
+          },
+          {
+            "earnings": 159744.0,
+            "percentile": 75
+          },
+          {
+            "earnings": 253867.65,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate clinical research projects. Direct the activities of workers engaged in clinical research projects to ensure compliance with protocols and overall clinical objectives. May evaluate and analyze clinical data.",
+        "onet-id": "11-9121.01",
+        "title": "Clinical Research Coordinators"
+      },
+      "id": "11-9121.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 62067.2,
+            "percentile": 10
+          },
+          {
+            "earnings": 88920.0,
+            "percentile": 25
+          },
+          {
+            "earnings": 118975.99,
+            "percentile": 50
+          },
+          {
+            "earnings": 159744.0,
+            "percentile": 75
+          },
+          {
+            "earnings": 253867.65,
+            "percentile": 90
+          }
+        ],
+        "description": "Design or implement programs and strategies related to water resource issues such as supply, quality, and regulatory compliance issues.",
+        "onet-id": "11-9121.02",
+        "title": "Water Resource Specialists"
+      },
+      "id": "11-9121.02",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 62525.19,
+            "percentile": 10
+          },
+          {
+            "earnings": 66220.25,
+            "percentile": 25
+          },
+          {
+            "earnings": 74502.25,
+            "percentile": 50
+          },
+          {
+            "earnings": 83264.4,
+            "percentile": 75
+          },
+          {
+            "earnings": 91920.47,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate operational, administrative, management, and supportive services of a U.S. post office; or coordinate activities of workers engaged in postal and related work in assigned post office.",
+        "onet-id": "11-9131.00",
+        "title": "Postmasters and Mail Superintendents"
+      },
+      "id": "11-9131.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 31164.53,
+            "percentile": 10
+          },
+          {
+            "earnings": 40716.12,
+            "percentile": 25
+          },
+          {
+            "earnings": 53440.46,
+            "percentile": 50
+          },
+          {
+            "earnings": 73357.47,
+            "percentile": 75
+          },
+          {
+            "earnings": 103943.83,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the selling, buying, leasing, or governance activities of commercial, industrial, or residential real estate properties. Includes managers of homeowner and condominium associations, rented or leased housing units, buildings, or land (including rights-of-way).",
+        "onet-id": "11-9141.00",
+        "title": "Property, Real Estate, and Community Association Managers"
+      },
+      "id": "11-9141.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 39643.61,
+            "percentile": 10
+          },
+          {
+            "earnings": 49323.33,
+            "percentile": 25
+          },
+          {
+            "earnings": 63104.82,
+            "percentile": 50
+          },
+          {
+            "earnings": 82854.76,
+            "percentile": 75
+          },
+          {
+            "earnings": 107284.31,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate the activities of a social service program or community outreach organization. Oversee the program or organization's budget and policies regarding participant involvement, program requirements, and benefits. Work may involve directing social workers, counselors, or probation officers.",
+        "onet-id": "11-9151.00",
+        "title": "Social and Community Service Managers"
+      },
+      "id": "11-9151.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 38285.62,
+            "percentile": 10
+          },
+          {
+            "earnings": 51504.59,
+            "percentile": 25
+          },
+          {
+            "earnings": 72746.5,
+            "percentile": 50
+          },
+          {
+            "earnings": 103299.47,
+            "percentile": 75
+          },
+          {
+            "earnings": 141562.19,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan and direct disaster response or crisis management activities, provide disaster preparedness training, and prepare emergency plans and procedures for natural (e.g., hurricanes, floods, earthquakes), wartime, or technological (e.g., nuclear power plant emergencies or hazardous materials spills) disasters or hostage situations.",
+        "onet-id": "11-9161.00",
+        "title": "Emergency Management Directors"
+      },
+      "id": "11-9161.00",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 41141.13,
+            "percentile": 10
+          },
+          {
+            "earnings": 55540.88,
+            "percentile": 25
+          },
+          {
+            "earnings": 74494.33,
+            "percentile": 50
+          },
+          {
+            "earnings": 95526.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 118188.78,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate production activities of an organization to ensure compliance with regulations and standard operating procedures.",
+        "onet-id": "11-9199.01",
+        "title": "Regulatory Affairs Managers"
+      },
+      "id": "11-9199.01",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 41141.13,
+            "percentile": 10
+          },
+          {
+            "earnings": 55540.88,
+            "percentile": 25
+          },
+          {
+            "earnings": 74494.33,
+            "percentile": 50
+          },
+          {
+            "earnings": 95526.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 118188.78,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate activities of an organization to ensure compliance with ethical or regulatory standards.",
+        "onet-id": "11-9199.02",
+        "title": "Compliance Managers"
+      },
+      "id": "11-9199.02",
+      "type": "career"
+    },
+    {
+      "attributes": {
+        "annual-earnings": [
+          {
+            "earnings": 41141.13,
+            "percentile": 10
+          },
+          {
+            "earnings": 55540.88,
+            "percentile": 25
+          },
+          {
+            "earnings": 74494.33,
+            "percentile": 50
+          },
+          {
+            "earnings": 95526.63,
+            "percentile": 75
+          },
+          {
+            "earnings": 118188.78,
+            "percentile": 90
+          }
+        ],
+        "description": "Plan, direct, or coordinate investment strategy or operations for a large pool of liquid assets supplied by institutional investors or individual investors.",
+        "onet-id": "11-9199.03",
+        "title": "Investment Fund Managers"
+      },
+      "id": "11-9199.03",
+      "type": "career"
+    }
+  ]
+}
