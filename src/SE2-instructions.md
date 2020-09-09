@@ -22,7 +22,7 @@ You will be using College Scorecard API. It is a public API that provides data f
 Your request will look like:
 ​
 GET 
-`https://api.data.gov/ed/collegescorecard/v1/schools.json?per_page=100&_fields=school.name,school.school_url,id,school.city,school.state,latest.student.size,latest.admissions.admission_rate.overall,latest.programs.cip_4_digit.credential&api_key=[your API key]&school.state=[State Filter, if desired]` 
+`https://api.data.gov/ed/collegescorecard/v1/schools.json?per_page=100&_fields=school.name,school.school_url,id,school.city,school.state,latest.student.size,latest.admissions.admission_rate.overall,latest.programs.cip_4_digit.credential,latest.programs.cip_4_digit.title&api_key=[your API key]&school.state=[State Filter, if desired]` 
 ​
 ​
 Include the first 100 resultant schools for your query. You need not include more than this.

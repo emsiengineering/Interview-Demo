@@ -16,7 +16,7 @@ const App = () => {
     () =>
       fetch(
         `
-        https://api.data.gov/ed/collegescorecard/v1/schools.json?per_page=100&_fields=school.name,school.school_url,id,school.city,school.state,latest.student.size,latest.admissions.admission_rate.overall,latest.programs.cip_4_digit.credential&api_key=UdlAhqa8pEIkspTRywK7x9tkfeUKswnu4oSoMGQt
+        https://api.data.gov/ed/collegescorecard/v1/schools.json?per_page=100&_fields=school.name,school.school_url,id,school.city,school.state,latest.student.size,latest.admissions.admission_rate.overall,latest.programs.cip_4_digit.credential,latest.programs.cip_4_digit.title&api_key=UdlAhqa8pEIkspTRywK7x9tkfeUKswnu4oSoMGQt
         `
       )
         .then((res) => res.json())
@@ -38,7 +38,7 @@ const App = () => {
         onSelect={(location) => {
           fetch(
             `
-            https://api.data.gov/ed/collegescorecard/v1/schools.json?per_page=100&_fields=school.name,school.school_url,id,school.city,school.state,latest.student.size,latest.admissions.admission_rate.overall,latest.programs.cip_4_digit.credential&api_key=a4k54fmkc3ZVm0EFGsE53Qp5stDknn9Apj1fULQx&school.state=${location}`
+            https://api.data.gov/ed/collegescorecard/v1/schools.json?per_page=100&_fields=school.name,school.school_url,id,school.city,school.state,latest.student.size,latest.admissions.admission_rate.overall,latest.programs.cip_4_digit.credential,latest.programs.cip_4_digit.title&api_key=a4k54fmkc3ZVm0EFGsE53Qp5stDknn9Apj1fULQx&school.state=${location}`
           )
             .then((res) => res.json())
             .then((res) =>
