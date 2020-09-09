@@ -121,7 +121,6 @@ const Search = ({ onSelect }) => {
   const filteredList = states.filter((item) =>
     item.toLowerCase().includes(input.toLowerCase())
   );
-  console.log(input);
   return (
     <Wrapper onFocus={() => setOpen(true)}>
       <Input
@@ -139,7 +138,6 @@ const Search = ({ onSelect }) => {
             <Button
               key={item + input}
               onClick={() => {
-                console.log('clicked!');
                 onSelect(item);
                 setInput(item);
                 setOpen(false);
